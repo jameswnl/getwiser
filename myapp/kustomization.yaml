@@ -3,3 +3,4 @@ kind: Kustomization
 namespace: myapp-dev
 resources:
 - app-with-prom.yaml
+- app-service-monitor.yaml
