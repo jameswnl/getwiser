@@ -11,7 +11,7 @@ spec:
 
   source:
     repoURL: https://github.com/jameswnl/getwiser
-    targetRevision: overlays
+    targetRevision: svc-monitor
     path: overlays/dev
 
   destination:
